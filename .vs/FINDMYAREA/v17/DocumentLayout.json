@@ -1,0 +1,136 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Users\\Source\\Repos\\FINDMYAREA\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BB835C2E-6564-45F9-B5AE-9E5D09083CDD}|FINDMYAREA.csproj|d:\\users\\source\\repos\\findmyarea\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BB835C2E-6564-45F9-B5AE-9E5D09083CDD}|FINDMYAREA.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB835C2E-6564-45F9-B5AE-9E5D09083CDD}|FINDMYAREA.csproj|d:\\users\\source\\repos\\findmyarea\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB835C2E-6564-45F9-B5AE-9E5D09083CDD}|FINDMYAREA.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB835C2E-6564-45F9-B5AE-9E5D09083CDD}|FINDMYAREA.csproj|d:\\users\\source\\repos\\findmyarea\\views\\home\\index_1.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BB835C2E-6564-45F9-B5AE-9E5D09083CDD}|FINDMYAREA.csproj|solutionrelative:views\\home\\index_1.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB835C2E-6564-45F9-B5AE-9E5D09083CDD}|FINDMYAREA.csproj|d:\\users\\source\\repos\\findmyarea\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB835C2E-6564-45F9-B5AE-9E5D09083CDD}|FINDMYAREA.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB835C2E-6564-45F9-B5AE-9E5D09083CDD}|FINDMYAREA.csproj|d:\\users\\source\\repos\\findmyarea\\views\\home\\index_2.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BB835C2E-6564-45F9-B5AE-9E5D09083CDD}|FINDMYAREA.csproj|solutionrelative:views\\home\\index_2.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB835C2E-6564-45F9-B5AE-9E5D09083CDD}|FINDMYAREA.csproj|d:\\users\\source\\repos\\findmyarea\\views\\home\\add_listing.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BB835C2E-6564-45F9-B5AE-9E5D09083CDD}|FINDMYAREA.csproj|solutionrelative:views\\home\\add_listing.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\Users\\Source\\Repos\\FINDMYAREA\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "D:\\Users\\Source\\Repos\\FINDMYAREA\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T09:42:57.583Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index_2.cshtml",
+              "DocumentMoniker": "D:\\Users\\Source\\Repos\\FINDMYAREA\\Views\\Home\\Index_2.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index_2.cshtml",
+              "ToolTip": "D:\\Users\\Source\\Repos\\FINDMYAREA\\Views\\Home\\Index_2.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index_2.cshtml",
+              "ViewState": "AQIAAGwBAAAAAAAAAAAmwJgBAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-19T10:29:30.01Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Users\\Source\\Repos\\FINDMYAREA\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\Users\\Source\\Repos\\FINDMYAREA\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T09:02:07.764Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Add_listing.cshtml",
+              "DocumentMoniker": "D:\\Users\\Source\\Repos\\FINDMYAREA\\Views\\Home\\Add_listing.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Add_listing.cshtml",
+              "ToolTip": "D:\\Users\\Source\\Repos\\FINDMYAREA\\Views\\Home\\Add_listing.cshtml",
+              "RelativeToolTip": "Views\\Home\\Add_listing.cshtml",
+              "ViewState": "AQIAANICAAAAAAAAAAAAAKQAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-18T06:57:03.64Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\Users\\Source\\Repos\\FINDMYAREA\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\Users\\Source\\Repos\\FINDMYAREA\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAACQAAAAAAAAAAAAAADYAAABbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-16T05:38:48.066Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index_1.cshtml",
+              "DocumentMoniker": "D:\\Users\\Source\\Repos\\FINDMYAREA\\Views\\Home\\Index_1.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index_1.cshtml",
+              "ToolTip": "D:\\Users\\Source\\Repos\\FINDMYAREA\\Views\\Home\\Index_1.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index_1.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-15T12:28:00.855Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

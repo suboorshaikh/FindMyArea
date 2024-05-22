@@ -1,0 +1,829 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\Users\\Source\\Repos\\FINDMYAREA\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\FINDMYAREA.bundle.scp.css",
+      "PackagePath": "staticwebassets\\FINDMYAREA.bundle.scp.css"
+    },
+    {
+      "Id": "D:\\Users\\Source\\Repos\\FINDMYAREA\\wwwroot\\asset\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\asset\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "D:\\Users\\Source\\Repos\\FINDMYAREA\\wwwroot\\asset\\css\\datedropper.css",
+      "PackagePath": "staticwebassets\\asset\\css\\datedropper.css"
+    },
+    {
+      "Id": "D:\\Users\\Source\\Repos\\FINDMYAREA\\wwwroot\\asset\\css\\icons.css",
+      "PackagePath": "staticwebassets\\asset\\css\\icons.css"
+    },
+    {
+      "Id": "D:\\Users\\Source\\Repos\\FINDMYAREA\\wwwroot\\asset\\css\\mmenu.css",
+      "PackagePath": "staticwebassets\\asset\\css\\mmenu.css"
+    },
+    {
+      "Id": "D:\\Users\\Source\\Repos\\FINDMYAREA\\wwwroot\\asset\\css\\perfect-scrollbar.css",
+      "PackagePath": "staticwebassets\\asset\\css\\perfect-scrollbar.css"
+    },
+    {
+      "Id": "D:\\Users\\Source\\Repos\\FINDMYAREA\\wwwroot\\asset\\css\\revolutionslider.css",
+      "PackagePath": "staticwebassets\\asset\\css\\revolutionslider.css"
+    },
+    {
+      "Id": "D:\\Users\\Source\\Repos\\FINDMYAREA\\wwwroot\\asset\\css\\style.css",
+      "PackagePath": "staticwebassets\\asset\\css\\style.css"
+    },
+    {
+      "Id": "D:\\Users\\Source\\Repos\\FINDMYAREA\\wwwroot\\asset\\css\\stylesheet.css",
+      "PackagePath": "staticwebassets\\asset\\css\\stylesheet.css"
+    },
+    {
+      "Id": "D:\\Users\\Source\\Repos\\FINDMYAREA\\wwwroot\\asset\\fonts\\Feather-Icons.ttf",
+      "PackagePath": "staticwebassets\\asset\\fonts\\Feather-Icons.ttf"
+    },
+    {
+      "Id": "D:\\Users\\Source\\Repos\\FINDMYAREA\\wwwroot\\asset\\fonts\\Material-Icons.ttf",
+      "PackagePath": "staticwebassets\\asset\\fonts\\Material-Icons.ttf"
+    },
+    {
+      "Id": "D:\\Users\\Source\\Repos\\FINDMYAREA\\wwwroot\\asset\\fonts\\fontawesome-webfont5b62.html",
+      "PackagePath": "staticwebassets\\asset\\fonts\\fontawesome-webfont5b62.html"
+    },
+    {
+      "Id": "D:\\Users\\Source\\Repos\\FINDMYAREA\\wwwroot\\asset\\fonts\\fontawesome-webfont5b62.woff",
+      "PackagePath": "staticwebassets\\asset\\fonts\\fontawesome-webfont5b62.woff"
+    },
+    {
+      "Id": "D:\\Users\\Source\\Repos\\FINDMYAREA\\wwwroot\\asset\\fonts\\fontello.woff",
+      "PackagePath": "staticwebassets\\asset\\fonts\\fontello.woff"
+    },
+    {
+      "Id": "D:\\Users\\Source\\Repos\\FINDMYAREA\\wwwroot\\asset\\fonts\\iconsmindca27.woff",
+      "PackagePath": "staticwebassets\\asset\\fonts\\iconsmindca27.woff"
+    },
+    {
+      "Id": "D:\\Users\\Source\\Repos\\FINDMYAREA\\wwwroot\\asset\\fonts\\simple-line-iconsc05f.ttf",
+      "PackagePath": "staticwebassets\\asset\\fonts\\simple-line-iconsc05f.ttf"
+    },
+    {
+      "Id": "D:\\Users\\Source\\Repos\\FINDMYAREA\\wwwroot\\asset\\images\\blog-compact-post-01.jpg",
+      "PackagePath": "staticwebassets\\asset\\images\\blog-compact-post-01.jpg"
+    },
+    {
+      "Id": "D:\\Users\\Source\\Repos\\FINDMYAREA\\wwwroot\\asset\\images\\blog-compact-post-02.jpg",
+      "PackagePath": "staticwebassets\\asset\\images\\blog-compact-post-02.jpg"
+    },
+    {
+      "Id": "D:\\Users\\Source\\Repos\\FINDMYAREA\\wwwroot\\asset\\images\\blog-compact-post-03.jpg",
+      "PackagePath": "staticwebassets\\asset\\images\\blog-compact-post-03.jpg"
+    },
+    {
+      "Id": "D:\\Users\\Source\\Repos\\FINDMYAREA\\wwwroot\\asset\\images\\blog-compact-post-04.jpg",
+      "PackagePath": "staticwebassets\\asset\\images\\blog-compact-post-04.jpg"
+    },
+    {
+      "Id": "D:\\Users\\Source\\Repos\\FINDMYAREA\\wwwroot\\asset\\images\\blog-post-01.jpg",
+      "PackagePath": "staticwebassets\\asset\\images\\blog-post-01.jpg"
+    },
+    {
+      "Id": "D:\\Users\\Source\\Repos\\FINDMYAREA\\wwwroot\\asset\\images\\blog-post-02.jpg",
+      "PackagePath": "staticwebassets\\asset\\images\\blog-post-02.jpg"
+    },
+    {
+      "Id": "D:\\Users\\Source\\Repos\\FINDMYAREA\\wwwroot\\asset\\images\\blog-post-03.jpg",
+      "PackagePath": "staticwebassets\\asset\\images\\blog-post-03.jpg"
+    },
+    {
+      "Id": "D:\\Users\\Source\\Repos\\FINDMYAREA\\wwwroot\\asset\\images\\blog-widget-01.jpg",
+      "PackagePath": "staticwebassets\\asset\\images\\blog-widget-01.jpg"
+    },
+    {
+      "Id": "D:\\Users\\Source\\Repos\\FINDMYAREA\\wwwroot\\asset\\images\\blog-widget-02.jpg",
+      "PackagePath": "staticwebassets\\asset\\images\\blog-widget-02.jpg"
+    },
+    {
+      "Id": "D:\\Users\\Source\\Repos\\FINDMYAREA\\wwwroot\\asset\\images\\blog-widget-03.jpg",
+      "PackagePath": "staticwebassets\\asset\\images\\blog-widget-03.jpg"
+    },
+    {
+      "Id": "D:\\Users\\Source\\Repos\\FINDMYAREA\\wwwroot\\asset\\images\\brand_logo_01.png",
+      "PackagePath": "staticwebassets\\asset\\images\\brand_logo_01.png"
+    },
+    {
+      "Id": "D:\\Users\\Source\\Repos\\FINDMYAREA\\wwwroot\\asset\\images\\brand_logo_02.png",
+      "PackagePath": "staticwebassets\\asset\\images\\brand_logo_02.png"
+    },
+    {
+      "Id": "D:\\Users\\Source\\Repos\\FINDMYAREA\\wwwroot\\asset\\images\\brand_logo_03.png",
+      "PackagePath": "staticwebassets\\asset\\images\\brand_logo_03.png"
+    },
+    {
+      "Id": "D:\\Users\\Source\\Repos\\FINDMYAREA\\wwwroot\\asset\\images\\brand_logo_04.png",
+      "PackagePath": "staticwebassets\\asset\\images\\brand_logo_04.png"
+    },
+    {
+      "Id": "D:\\Users\\Source\\Repos\\FINDMYAREA\\wwwroot\\asset\\images\\brand_logo_05.png",
+      "PackagePath": "staticwebassets\\asset\\images\\brand_logo_05.png"
+    },
+    {
+      "Id": "D:\\Users\\Source\\Repos\\FINDMYAREA\\wwwroot\\asset\\images\\brand_logo_06.png",
+      "PackagePath": "staticwebassets\\asset\\images\\brand_logo_06.png"
+    },
+    {
+      "Id": "D:\\Users\\Source\\Repos\\FINDMYAREA\\wwwroot\\asset\\images\\brand_logo_07.png",
+      "PackagePath": "staticwebassets\\asset\\images\\brand_logo_07.png"
+    },
+    {
+      "Id": "D:\\Users\\Source\\Repos\\FINDMYAREA\\wwwroot\\asset\\images\\category-box-01.jpg",
+      "PackagePath": "staticwebassets\\asset\\images\\category-box-01.jpg"
+    },
+    {
+      "Id": "D:\\Users\\Source\\Repos\\FINDMYAREA\\wwwroot\\asset\\images\\category-box-02.jpg",
+      "PackagePath": "staticwebassets\\asset\\images\\category-box-02.jpg"
+    },
+    {
+      "Id": "D:\\Users\\Source\\Repos\\FINDMYAREA\\wwwroot\\asset\\images\\category-box-03.jpg",
+      "PackagePath": "staticwebassets\\asset\\images\\category-box-03.jpg"
+    },
+    {
+      "Id": "D:\\Users\\Source\\Repos\\FINDMYAREA\\wwwroot\\asset\\images\\category-box-04.jpg",
+      "PackagePath": "staticwebassets\\asset\\images\\category-box-04.jpg"
+    },
+    {
+      "Id": "D:\\Users\\Source\\Repos\\FINDMYAREA\\wwwroot\\asset\\images\\category-box-05.jpg",
+      "PackagePath": "staticwebassets\\asset\\images\\category-box-05.jpg"
+    },
+    {
+      "Id": "D:\\Users\\Source\\Repos\\FINDMYAREA\\wwwroot\\asset\\images\\category-box-06.jpg",
+      "PackagePath": "staticwebassets\\asset\\images\\category-box-06.jpg"
+    },
+    {
+      "Id": "D:\\Users\\Source\\Repos\\FINDMYAREA\\wwwroot\\asset\\images\\category-box-07.jpg",
+      "PackagePath": "staticwebassets\\asset\\images\\category-box-07.jpg"
+    },
+    {
+      "Id": "D:\\Users\\Source\\Repos\\FINDMYAREA\\wwwroot\\asset\\images\\category-box-08.jpg",
+      "PackagePath": "staticwebassets\\asset\\images\\category-box-08.jpg"
+    },
+    {
+      "Id": "D:\\Users\\Source\\Repos\\FINDMYAREA\\wwwroot\\asset\\images\\city_search_background.jpg",
+      "PackagePath": "staticwebassets\\asset\\images\\city_search_background.jpg"
+    },
+    {
+      "Id": "D:\\Users\\Source\\Repos\\FINDMYAREA\\wwwroot\\asset\\images\\client-avatar1.jpg",
+      "PackagePath": "staticwebassets\\asset\\images\\client-avatar1.jpg"
+    },
+    {
+      "Id": "D:\\Users\\Source\\Repos\\FINDMYAREA\\wwwroot\\asset\\images\\client-avatar2.jpg",
+      "PackagePath": "staticwebassets\\asset\\images\\client-avatar2.jpg"
+    },
+    {
+      "Id": "D:\\Users\\Source\\Repos\\FINDMYAREA\\wwwroot\\asset\\images\\client-avatar3.jpg",
+      "PackagePath": "staticwebassets\\asset\\images\\client-avatar3.jpg"
+    },
+    {
+      "Id": "D:\\Users\\Source\\Repos\\FINDMYAREA\\wwwroot\\asset\\images\\coming_soon_bg.jpg",
+      "PackagePath": "staticwebassets\\asset\\images\\coming_soon_bg.jpg"
+    },
+    {
+      "Id": "D:\\Users\\Source\\Repos\\FINDMYAREA\\wwwroot\\asset\\images\\coupon-bg-1.jpg",
+      "PackagePath": "staticwebassets\\asset\\images\\coupon-bg-1.jpg"
+    },
+    {
+      "Id": "D:\\Users\\Source\\Repos\\FINDMYAREA\\wwwroot\\asset\\images\\dashboard-avatar.jpg",
+      "PackagePath": "staticwebassets\\asset\\images\\dashboard-avatar.jpg"
+    },
+    {
+      "Id": "D:\\Users\\Source\\Repos\\FINDMYAREA\\wwwroot\\asset\\images\\error-page-bg.jpg",
+      "PackagePath": "staticwebassets\\asset\\images\\error-page-bg.jpg"
+    },
+    {
+      "Id": "D:\\Users\\Source\\Repos\\FINDMYAREA\\wwwroot\\asset\\images\\footer-bg.png",
+      "PackagePath": "staticwebassets\\asset\\images\\footer-bg.png"
+    },
+    {
+      "Id": "D:\\Users\\Source\\Repos\\FINDMYAREA\\wwwroot\\asset\\images\\google_adsense.jpg",
+      "PackagePath": "staticwebassets\\asset\\images\\google_adsense.jpg"
+    },
+    {
+      "Id": "D:\\Users\\Source\\Repos\\FINDMYAREA\\wwwroot\\asset\\images\\happy-client-01.jpg",
+      "PackagePath": "staticwebassets\\asset\\images\\happy-client-01.jpg"
+    },
+    {
+      "Id": "D:\\Users\\Source\\Repos\\FINDMYAREA\\wwwroot\\asset\\images\\happy-client-02.jpg",
+      "PackagePath": "staticwebassets\\asset\\images\\happy-client-02.jpg"
+    },
+    {
+      "Id": "D:\\Users\\Source\\Repos\\FINDMYAREA\\wwwroot\\asset\\images\\happy-client-03.jpg",
+      "PackagePath": "staticwebassets\\asset\\images\\happy-client-03.jpg"
+    },
+    {
+      "Id": "D:\\Users\\Source\\Repos\\FINDMYAREA\\wwwroot\\asset\\images\\home_search_bg_image.jpg",
+      "PackagePath": "staticwebassets\\asset\\images\\home_search_bg_image.jpg"
+    },
+    {
+      "Id": "D:\\Users\\Source\\Repos\\FINDMYAREA\\wwwroot\\asset\\images\\home_section_1.jpg",
+      "PackagePath": "staticwebassets\\asset\\images\\home_section_1.jpg"
+    },
+    {
+      "Id": "D:\\Users\\Source\\Repos\\FINDMYAREA\\wwwroot\\asset\\images\\listing-item-04.jpg",
+      "PackagePath": "staticwebassets\\asset\\images\\listing-item-04.jpg"
+    },
+    {
+      "Id": "D:\\Users\\Source\\Repos\\FINDMYAREA\\wwwroot\\asset\\images\\logo.png",
+      "PackagePath": "staticwebassets\\asset\\images\\logo.png"
+    },
+    {
+      "Id": "D:\\Users\\Source\\Repos\\FINDMYAREA\\wwwroot\\asset\\images\\logo2.png",
+      "PackagePath": "staticwebassets\\asset\\images\\logo2.png"
+    },
+    {
+      "Id": "D:\\Users\\Source\\Repos\\FINDMYAREA\\wwwroot\\asset\\images\\music_listing_01.jpg",
+      "PackagePath": "staticwebassets\\asset\\images\\music_listing_01.jpg"
+    },
+    {
+      "Id": "D:\\Users\\Source\\Repos\\FINDMYAREA\\wwwroot\\asset\\images\\music_listing_02.jpg",
+      "PackagePath": "staticwebassets\\asset\\images\\music_listing_02.jpg"
+    },
+    {
+      "Id": "D:\\Users\\Source\\Repos\\FINDMYAREA\\wwwroot\\asset\\images\\music_listing_03.jpg",
+      "PackagePath": "staticwebassets\\asset\\images\\music_listing_03.jpg"
+    },
+    {
+      "Id": "D:\\Users\\Source\\Repos\\FINDMYAREA\\wwwroot\\asset\\images\\music_listing_04.jpg",
+      "PackagePath": "staticwebassets\\asset\\images\\music_listing_04.jpg"
+    },
+    {
+      "Id": "D:\\Users\\Source\\Repos\\FINDMYAREA\\wwwroot\\asset\\images\\page-title.jpg",
+      "PackagePath": "staticwebassets\\asset\\images\\page-title.jpg"
+    },
+    {
+      "Id": "D:\\Users\\Source\\Repos\\FINDMYAREA\\wwwroot\\asset\\images\\pay_icon.png",
+      "PackagePath": "staticwebassets\\asset\\images\\pay_icon.png"
+    },
+    {
+      "Id": "D:\\Users\\Source\\Repos\\FINDMYAREA\\wwwroot\\asset\\images\\paypal_pay.png",
+      "PackagePath": "staticwebassets\\asset\\images\\paypal_pay.png"
+    },
+    {
+      "Id": "D:\\Users\\Source\\Repos\\FINDMYAREA\\wwwroot\\asset\\images\\photography_listing_01.jpg",
+      "PackagePath": "staticwebassets\\asset\\images\\photography_listing_01.jpg"
+    },
+    {
+      "Id": "D:\\Users\\Source\\Repos\\FINDMYAREA\\wwwroot\\asset\\images\\photography_listing_02.jpg",
+      "PackagePath": "staticwebassets\\asset\\images\\photography_listing_02.jpg"
+    },
+    {
+      "Id": "D:\\Users\\Source\\Repos\\FINDMYAREA\\wwwroot\\asset\\images\\photography_listing_03.jpg",
+      "PackagePath": "staticwebassets\\asset\\images\\photography_listing_03.jpg"
+    },
+    {
+      "Id": "D:\\Users\\Source\\Repos\\FINDMYAREA\\wwwroot\\asset\\images\\photography_listing_04.jpg",
+      "PackagePath": "staticwebassets\\asset\\images\\photography_listing_04.jpg"
+    },
+    {
+      "Id": "D:\\Users\\Source\\Repos\\FINDMYAREA\\wwwroot\\asset\\images\\popular-location-01.jpg",
+      "PackagePath": "staticwebassets\\asset\\images\\popular-location-01.jpg"
+    },
+    {
+      "Id": "D:\\Users\\Source\\Repos\\FINDMYAREA\\wwwroot\\asset\\images\\popular-location-02.jpg",
+      "PackagePath": "staticwebassets\\asset\\images\\popular-location-02.jpg"
+    },
+    {
+      "Id": "D:\\Users\\Source\\Repos\\FINDMYAREA\\wwwroot\\asset\\images\\popular-location-03.jpg",
+      "PackagePath": "staticwebassets\\asset\\images\\popular-location-03.jpg"
+    },
+    {
+      "Id": "D:\\Users\\Source\\Repos\\FINDMYAREA\\wwwroot\\asset\\images\\popular-location-04.jpg",
+      "PackagePath": "staticwebassets\\asset\\images\\popular-location-04.jpg"
+    },
+    {
+      "Id": "D:\\Users\\Source\\Repos\\FINDMYAREA\\wwwroot\\asset\\images\\popular-location-05.jpg",
+      "PackagePath": "staticwebassets\\asset\\images\\popular-location-05.jpg"
+    },
+    {
+      "Id": "D:\\Users\\Source\\Repos\\FINDMYAREA\\wwwroot\\asset\\images\\popular-location-06.jpg",
+      "PackagePath": "staticwebassets\\asset\\images\\popular-location-06.jpg"
+    },
+    {
+      "Id": "D:\\Users\\Source\\Repos\\FINDMYAREA\\wwwroot\\asset\\images\\review-image-01.jpg",
+      "PackagePath": "staticwebassets\\asset\\images\\review-image-01.jpg"
+    },
+    {
+      "Id": "D:\\Users\\Source\\Repos\\FINDMYAREA\\wwwroot\\asset\\images\\review-image-02.jpg",
+      "PackagePath": "staticwebassets\\asset\\images\\review-image-02.jpg"
+    },
+    {
+      "Id": "D:\\Users\\Source\\Repos\\FINDMYAREA\\wwwroot\\asset\\images\\review-image-03.jpg",
+      "PackagePath": "staticwebassets\\asset\\images\\review-image-03.jpg"
+    },
+    {
+      "Id": "D:\\Users\\Source\\Repos\\FINDMYAREA\\wwwroot\\asset\\images\\search_slider_bg_1.jpg",
+      "PackagePath": "staticwebassets\\asset\\images\\search_slider_bg_1.jpg"
+    },
+    {
+      "Id": "D:\\Users\\Source\\Repos\\FINDMYAREA\\wwwroot\\asset\\images\\search_slider_bg_2.jpg",
+      "PackagePath": "staticwebassets\\asset\\images\\search_slider_bg_2.jpg"
+    },
+    {
+      "Id": "D:\\Users\\Source\\Repos\\FINDMYAREA\\wwwroot\\asset\\images\\search_slider_bg_3.jpg",
+      "PackagePath": "staticwebassets\\asset\\images\\search_slider_bg_3.jpg"
+    },
+    {
+      "Id": "D:\\Users\\Source\\Repos\\FINDMYAREA\\wwwroot\\asset\\images\\search_video_bg.jpg",
+      "PackagePath": "staticwebassets\\asset\\images\\search_video_bg.jpg"
+    },
+    {
+      "Id": "D:\\Users\\Source\\Repos\\FINDMYAREA\\wwwroot\\asset\\images\\single-listing-01.jpg",
+      "PackagePath": "staticwebassets\\asset\\images\\single-listing-01.jpg"
+    },
+    {
+      "Id": "D:\\Users\\Source\\Repos\\FINDMYAREA\\wwwroot\\asset\\images\\single-listing-02.jpg",
+      "PackagePath": "staticwebassets\\asset\\images\\single-listing-02.jpg"
+    },
+    {
+      "Id": "D:\\Users\\Source\\Repos\\FINDMYAREA\\wwwroot\\asset\\images\\single-listing-03.jpg",
+      "PackagePath": "staticwebassets\\asset\\images\\single-listing-03.jpg"
+    },
+    {
+      "Id": "D:\\Users\\Source\\Repos\\FINDMYAREA\\wwwroot\\asset\\images\\single-listing-04.jpg",
+      "PackagePath": "staticwebassets\\asset\\images\\single-listing-04.jpg"
+    },
+    {
+      "Id": "D:\\Users\\Source\\Repos\\FINDMYAREA\\wwwroot\\asset\\images\\single_listing_img_01.jpg",
+      "PackagePath": "staticwebassets\\asset\\images\\single_listing_img_01.jpg"
+    },
+    {
+      "Id": "D:\\Users\\Source\\Repos\\FINDMYAREA\\wwwroot\\asset\\images\\single_listing_img_02.jpg",
+      "PackagePath": "staticwebassets\\asset\\images\\single_listing_img_02.jpg"
+    },
+    {
+      "Id": "D:\\Users\\Source\\Repos\\FINDMYAREA\\wwwroot\\asset\\images\\single_listing_img_03.jpg",
+      "PackagePath": "staticwebassets\\asset\\images\\single_listing_img_03.jpg"
+    },
+    {
+      "Id": "D:\\Users\\Source\\Repos\\FINDMYAREA\\wwwroot\\asset\\images\\slider-bg-02.jpg",
+      "PackagePath": "staticwebassets\\asset\\images\\slider-bg-02.jpg"
+    },
+    {
+      "Id": "D:\\Users\\Source\\Repos\\FINDMYAREA\\wwwroot\\asset\\images\\stripe.png",
+      "PackagePath": "staticwebassets\\asset\\images\\stripe.png"
+    },
+    {
+      "Id": "D:\\Users\\Source\\Repos\\FINDMYAREA\\wwwroot\\asset\\images\\testimonial.png",
+      "PackagePath": "staticwebassets\\asset\\images\\testimonial.png"
+    },
+    {
+      "Id": "D:\\Users\\Source\\Repos\\FINDMYAREA\\wwwroot\\asset\\images\\thumb-1.jpg",
+      "PackagePath": "staticwebassets\\asset\\images\\thumb-1.jpg"
+    },
+    {
+      "Id": "D:\\Users\\Source\\Repos\\FINDMYAREA\\wwwroot\\asset\\images\\thumb-2.jpg",
+      "PackagePath": "staticwebassets\\asset\\images\\thumb-2.jpg"
+    },
+    {
+      "Id": "D:\\Users\\Source\\Repos\\FINDMYAREA\\wwwroot\\asset\\images\\thumb-3.jpg",
+      "PackagePath": "staticwebassets\\asset\\images\\thumb-3.jpg"
+    },
+    {
+      "Id": "D:\\Users\\Source\\Repos\\FINDMYAREA\\wwwroot\\asset\\images\\user-avatar.jpg",
+      "PackagePath": "staticwebassets\\asset\\images\\user-avatar.jpg"
+    },
+    {
+      "Id": "D:\\Users\\Source\\Repos\\FINDMYAREA\\wwwroot\\asset\\images\\user_avatar_01.jpg",
+      "PackagePath": "staticwebassets\\asset\\images\\user_avatar_01.jpg"
+    },
+    {
+      "Id": "D:\\Users\\Source\\Repos\\FINDMYAREA\\wwwroot\\asset\\images\\user_avatar_02.jpg",
+      "PackagePath": "staticwebassets\\asset\\images\\user_avatar_02.jpg"
+    },
+    {
+      "Id": "D:\\Users\\Source\\Repos\\FINDMYAREA\\wwwroot\\asset\\images\\user_avatar_03.jpg",
+      "PackagePath": "staticwebassets\\asset\\images\\user_avatar_03.jpg"
+    },
+    {
+      "Id": "D:\\Users\\Source\\Repos\\FINDMYAREA\\wwwroot\\asset\\images\\user_avatar_04.jpg",
+      "PackagePath": "staticwebassets\\asset\\images\\user_avatar_04.jpg"
+    },
+    {
+      "Id": "D:\\Users\\Source\\Repos\\FINDMYAREA\\wwwroot\\asset\\images\\utf_listing_item-01.jpg",
+      "PackagePath": "staticwebassets\\asset\\images\\utf_listing_item-01.jpg"
+    },
+    {
+      "Id": "D:\\Users\\Source\\Repos\\FINDMYAREA\\wwwroot\\asset\\images\\utf_listing_item-02.jpg",
+      "PackagePath": "staticwebassets\\asset\\images\\utf_listing_item-02.jpg"
+    },
+    {
+      "Id": "D:\\Users\\Source\\Repos\\FINDMYAREA\\wwwroot\\asset\\images\\utf_listing_item-03.jpg",
+      "PackagePath": "staticwebassets\\asset\\images\\utf_listing_item-03.jpg"
+    },
+    {
+      "Id": "D:\\Users\\Source\\Repos\\FINDMYAREA\\wwwroot\\asset\\images\\utf_listing_item-04.jpg",
+      "PackagePath": "staticwebassets\\asset\\images\\utf_listing_item-04.jpg"
+    },
+    {
+      "Id": "D:\\Users\\Source\\Repos\\FINDMYAREA\\wwwroot\\asset\\images\\utf_listing_item-05.jpg",
+      "PackagePath": "staticwebassets\\asset\\images\\utf_listing_item-05.jpg"
+    },
+    {
+      "Id": "D:\\Users\\Source\\Repos\\FINDMYAREA\\wwwroot\\asset\\images\\utf_listing_item-06.jpg",
+      "PackagePath": "staticwebassets\\asset\\images\\utf_listing_item-06.jpg"
+    },
+    {
+      "Id": "D:\\Users\\Source\\Repos\\FINDMYAREA\\wwwroot\\asset\\scripts\\bootstrap-select.min.js",
+      "PackagePath": "staticwebassets\\asset\\scripts\\bootstrap-select.min.js"
+    },
+    {
+      "Id": "D:\\Users\\Source\\Repos\\FINDMYAREA\\wwwroot\\asset\\scripts\\chosen.min.js",
+      "PackagePath": "staticwebassets\\asset\\scripts\\chosen.min.js"
+    },
+    {
+      "Id": "D:\\Users\\Source\\Repos\\FINDMYAREA\\wwwroot\\asset\\scripts\\color_switcher.js",
+      "PackagePath": "staticwebassets\\asset\\scripts\\color_switcher.js"
+    },
+    {
+      "Id": "D:\\Users\\Source\\Repos\\FINDMYAREA\\wwwroot\\asset\\scripts\\datedropper.js",
+      "PackagePath": "staticwebassets\\asset\\scripts\\datedropper.js"
+    },
+    {
+      "Id": "D:\\Users\\Source\\Repos\\FINDMYAREA\\wwwroot\\asset\\scripts\\daterangepicker.js",
+      "PackagePath": "staticwebassets\\asset\\scripts\\daterangepicker.js"
+    },
+    {
+      "Id": "D:\\Users\\Source\\Repos\\FINDMYAREA\\wwwroot\\asset\\scripts\\dropzone.js",
+      "PackagePath": "staticwebassets\\asset\\scripts\\dropzone.js"
+    },
+    {
+      "Id": "D:\\Users\\Source\\Repos\\FINDMYAREA\\wwwroot\\asset\\scripts\\extensions\\revolution.extension.actions.min.js",
+      "PackagePath": "staticwebassets\\asset\\scripts\\extensions\\revolution.extension.actions.min.js"
+    },
+    {
+      "Id": "D:\\Users\\Source\\Repos\\FINDMYAREA\\wwwroot\\asset\\scripts\\extensions\\revolution.extension.carousel.min.js",
+      "PackagePath": "staticwebassets\\asset\\scripts\\extensions\\revolution.extension.carousel.min.js"
+    },
+    {
+      "Id": "D:\\Users\\Source\\Repos\\FINDMYAREA\\wwwroot\\asset\\scripts\\extensions\\revolution.extension.kenburn.min.js",
+      "PackagePath": "staticwebassets\\asset\\scripts\\extensions\\revolution.extension.kenburn.min.js"
+    },
+    {
+      "Id": "D:\\Users\\Source\\Repos\\FINDMYAREA\\wwwroot\\asset\\scripts\\extensions\\revolution.extension.layeranimation.min.js",
+      "PackagePath": "staticwebassets\\asset\\scripts\\extensions\\revolution.extension.layeranimation.min.js"
+    },
+    {
+      "Id": "D:\\Users\\Source\\Repos\\FINDMYAREA\\wwwroot\\asset\\scripts\\extensions\\revolution.extension.migration.min.js",
+      "PackagePath": "staticwebassets\\asset\\scripts\\extensions\\revolution.extension.migration.min.js"
+    },
+    {
+      "Id": "D:\\Users\\Source\\Repos\\FINDMYAREA\\wwwroot\\asset\\scripts\\extensions\\revolution.extension.navigation.min.js",
+      "PackagePath": "staticwebassets\\asset\\scripts\\extensions\\revolution.extension.navigation.min.js"
+    },
+    {
+      "Id": "D:\\Users\\Source\\Repos\\FINDMYAREA\\wwwroot\\asset\\scripts\\extensions\\revolution.extension.parallax.min.js",
+      "PackagePath": "staticwebassets\\asset\\scripts\\extensions\\revolution.extension.parallax.min.js"
+    },
+    {
+      "Id": "D:\\Users\\Source\\Repos\\FINDMYAREA\\wwwroot\\asset\\scripts\\extensions\\revolution.extension.slideanims.min.js",
+      "PackagePath": "staticwebassets\\asset\\scripts\\extensions\\revolution.extension.slideanims.min.js"
+    },
+    {
+      "Id": "D:\\Users\\Source\\Repos\\FINDMYAREA\\wwwroot\\asset\\scripts\\extensions\\revolution.extension.video.min.js",
+      "PackagePath": "staticwebassets\\asset\\scripts\\extensions\\revolution.extension.video.min.js"
+    },
+    {
+      "Id": "D:\\Users\\Source\\Repos\\FINDMYAREA\\wwwroot\\asset\\scripts\\extensions\\themepunch.revolution.min.js",
+      "PackagePath": "staticwebassets\\asset\\scripts\\extensions\\themepunch.revolution.min.js"
+    },
+    {
+      "Id": "D:\\Users\\Source\\Repos\\FINDMYAREA\\wwwroot\\asset\\scripts\\extensions\\themepunch.tools.min.js",
+      "PackagePath": "staticwebassets\\asset\\scripts\\extensions\\themepunch.tools.min.js"
+    },
+    {
+      "Id": "D:\\Users\\Source\\Repos\\FINDMYAREA\\wwwroot\\asset\\scripts\\infobox.min.js",
+      "PackagePath": "staticwebassets\\asset\\scripts\\infobox.min.js"
+    },
+    {
+      "Id": "D:\\Users\\Source\\Repos\\FINDMYAREA\\wwwroot\\asset\\scripts\\isotope.min.js",
+      "PackagePath": "staticwebassets\\asset\\scripts\\isotope.min.js"
+    },
+    {
+      "Id": "D:\\Users\\Source\\Repos\\FINDMYAREA\\wwwroot\\asset\\scripts\\jquery-3.6.0.min.js",
+      "PackagePath": "staticwebassets\\asset\\scripts\\jquery-3.6.0.min.js"
+    },
+    {
+      "Id": "D:\\Users\\Source\\Repos\\FINDMYAREA\\wwwroot\\asset\\scripts\\jquery-migrate-3.3.2.min.js",
+      "PackagePath": "staticwebassets\\asset\\scripts\\jquery-migrate-3.3.2.min.js"
+    },
+    {
+      "Id": "D:\\Users\\Source\\Repos\\FINDMYAREA\\wwwroot\\asset\\scripts\\jquery-ui.min.js",
+      "PackagePath": "staticwebassets\\asset\\scripts\\jquery-ui.min.js"
+    },
+    {
+      "Id": "D:\\Users\\Source\\Repos\\FINDMYAREA\\wwwroot\\asset\\scripts\\jquery.countdown.min.js",
+      "PackagePath": "staticwebassets\\asset\\scripts\\jquery.countdown.min.js"
+    },
+    {
+      "Id": "D:\\Users\\Source\\Repos\\FINDMYAREA\\wwwroot\\asset\\scripts\\jquery_custom.js",
+      "PackagePath": "staticwebassets\\asset\\scripts\\jquery_custom.js"
+    },
+    {
+      "Id": "D:\\Users\\Source\\Repos\\FINDMYAREA\\wwwroot\\asset\\scripts\\magnific-popup.min.js",
+      "PackagePath": "staticwebassets\\asset\\scripts\\magnific-popup.min.js"
+    },
+    {
+      "Id": "D:\\Users\\Source\\Repos\\FINDMYAREA\\wwwroot\\asset\\scripts\\maps.js",
+      "PackagePath": "staticwebassets\\asset\\scripts\\maps.js"
+    },
+    {
+      "Id": "D:\\Users\\Source\\Repos\\FINDMYAREA\\wwwroot\\asset\\scripts\\markerclusterer.js",
+      "PackagePath": "staticwebassets\\asset\\scripts\\markerclusterer.js"
+    },
+    {
+      "Id": "D:\\Users\\Source\\Repos\\FINDMYAREA\\wwwroot\\asset\\scripts\\mmenu.js",
+      "PackagePath": "staticwebassets\\asset\\scripts\\mmenu.js"
+    },
+    {
+      "Id": "D:\\Users\\Source\\Repos\\FINDMYAREA\\wwwroot\\asset\\scripts\\moment.min.js",
+      "PackagePath": "staticwebassets\\asset\\scripts\\moment.min.js"
+    },
+    {
+      "Id": "D:\\Users\\Source\\Repos\\FINDMYAREA\\wwwroot\\asset\\scripts\\perfect-scrollbar.min.js",
+      "PackagePath": "staticwebassets\\asset\\scripts\\perfect-scrollbar.min.js"
+    },
+    {
+      "Id": "D:\\Users\\Source\\Repos\\FINDMYAREA\\wwwroot\\asset\\scripts\\quantityButtons.js",
+      "PackagePath": "staticwebassets\\asset\\scripts\\quantityButtons.js"
+    },
+    {
+      "Id": "D:\\Users\\Source\\Repos\\FINDMYAREA\\wwwroot\\asset\\scripts\\rangeslider.min.js",
+      "PackagePath": "staticwebassets\\asset\\scripts\\rangeslider.min.js"
+    },
+    {
+      "Id": "D:\\Users\\Source\\Repos\\FINDMYAREA\\wwwroot\\asset\\scripts\\slick.min.js",
+      "PackagePath": "staticwebassets\\asset\\scripts\\slick.min.js"
+    },
+    {
+      "Id": "D:\\Users\\Source\\Repos\\FINDMYAREA\\wwwroot\\asset\\scripts\\tooltips.min.js",
+      "PackagePath": "staticwebassets\\asset\\scripts\\tooltips.min.js"
+    },
+    {
+      "Id": "D:\\Users\\Source\\Repos\\FINDMYAREA\\wwwroot\\asset\\scripts\\typed.js",
+      "PackagePath": "staticwebassets\\asset\\scripts\\typed.js"
+    },
+    {
+      "Id": "D:\\Users\\Source\\Repos\\FINDMYAREA\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "D:\\Users\\Source\\Repos\\FINDMYAREA\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "D:\\Users\\Source\\Repos\\FINDMYAREA\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "D:\\Users\\Source\\Repos\\FINDMYAREA\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "D:\\Users\\Source\\Repos\\FINDMYAREA\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "D:\\Users\\Source\\Repos\\FINDMYAREA\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "D:\\Users\\Source\\Repos\\FINDMYAREA\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "D:\\Users\\Source\\Repos\\FINDMYAREA\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "D:\\Users\\Source\\Repos\\FINDMYAREA\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "D:\\Users\\Source\\Repos\\FINDMYAREA\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "D:\\Users\\Source\\Repos\\FINDMYAREA\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "D:\\Users\\Source\\Repos\\FINDMYAREA\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\Users\\Source\\Repos\\FINDMYAREA\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "D:\\Users\\Source\\Repos\\FINDMYAREA\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "D:\\Users\\Source\\Repos\\FINDMYAREA\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "D:\\Users\\Source\\Repos\\FINDMYAREA\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "D:\\Users\\Source\\Repos\\FINDMYAREA\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "D:\\Users\\Source\\Repos\\FINDMYAREA\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "D:\\Users\\Source\\Repos\\FINDMYAREA\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "D:\\Users\\Source\\Repos\\FINDMYAREA\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\Users\\Source\\Repos\\FINDMYAREA\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "D:\\Users\\Source\\Repos\\FINDMYAREA\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "D:\\Users\\Source\\Repos\\FINDMYAREA\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "D:\\Users\\Source\\Repos\\FINDMYAREA\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "D:\\Users\\Source\\Repos\\FINDMYAREA\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "D:\\Users\\Source\\Repos\\FINDMYAREA\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "D:\\Users\\Source\\Repos\\FINDMYAREA\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "D:\\Users\\Source\\Repos\\FINDMYAREA\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\Users\\Source\\Repos\\FINDMYAREA\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "D:\\Users\\Source\\Repos\\FINDMYAREA\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "D:\\Users\\Source\\Repos\\FINDMYAREA\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\Users\\Source\\Repos\\FINDMYAREA\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "D:\\Users\\Source\\Repos\\FINDMYAREA\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "D:\\Users\\Source\\Repos\\FINDMYAREA\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "D:\\Users\\Source\\Repos\\FINDMYAREA\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "D:\\Users\\Source\\Repos\\FINDMYAREA\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\Users\\Source\\Repos\\FINDMYAREA\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "D:\\Users\\Source\\Repos\\FINDMYAREA\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "D:\\Users\\Source\\Repos\\FINDMYAREA\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "D:\\Users\\Source\\Repos\\FINDMYAREA\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "D:\\Users\\Source\\Repos\\FINDMYAREA\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "D:\\Users\\Source\\Repos\\FINDMYAREA\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "D:\\Users\\Source\\Repos\\FINDMYAREA\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "D:\\Users\\Source\\Repos\\FINDMYAREA\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "D:\\Users\\Source\\Repos\\FINDMYAREA\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "D:\\Users\\Source\\Repos\\FINDMYAREA\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "D:\\Users\\Source\\Repos\\FINDMYAREA\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\Users\\Source\\Repos\\FINDMYAREA\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "D:\\Users\\Source\\Repos\\FINDMYAREA\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\Users\\Source\\Repos\\FINDMYAREA\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "D:\\Users\\Source\\Repos\\FINDMYAREA\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "D:\\Users\\Source\\Repos\\FINDMYAREA\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "D:\\Users\\Source\\Repos\\FINDMYAREA\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "D:\\Users\\Source\\Repos\\FINDMYAREA\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "D:\\Users\\Source\\Repos\\FINDMYAREA\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "D:\\Users\\Source\\Repos\\FINDMYAREA\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "D:\\Users\\Source\\Repos\\FINDMYAREA\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\Users\\Source\\Repos\\FINDMYAREA\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "D:\\Users\\Source\\Repos\\FINDMYAREA\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "D:\\Users\\Source\\Repos\\FINDMYAREA\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.FINDMYAREA.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.FINDMYAREA.props",
+      "PackagePath": "build\\FINDMYAREA.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.FINDMYAREA.props",
+      "PackagePath": "buildMultiTargeting\\FINDMYAREA.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.FINDMYAREA.props",
+      "PackagePath": "buildTransitive\\FINDMYAREA.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

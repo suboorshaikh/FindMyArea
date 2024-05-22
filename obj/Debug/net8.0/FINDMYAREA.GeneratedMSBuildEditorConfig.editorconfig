@@ -1,0 +1,259 @@
+is_global = true
+build_property.TargetFramework = net8.0
+build_property.TargetFramework = net8.0
+build_property.TargetPlatformMinVersion = 
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = FINDMYAREA
+build_property.RootNamespace = FINDMYAREA
+build_property.ProjectDir = D:\Users\Source\Repos\FINDMYAREA\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 8.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = D:\Users\Source\Repos\FINDMYAREA
+build_property._RazorSourceGeneratorDebug = 
+
+[D:/Users/Source/Repos/FINDMYAREA/Views/Home/Add_listing.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxBZGRfbGlzdGluZy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Users/Source/Repos/FINDMYAREA/Views/Home/Blog_Details_Left_Sidebar.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxCbG9nX0RldGFpbHNfTGVmdF9TaWRlYmFyLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Users/Source/Repos/FINDMYAREA/Views/Home/Blog_Details_Right_Sidebar.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxCbG9nX0RldGFpbHNfUmlnaHRfU2lkZWJhci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Users/Source/Repos/FINDMYAREA/Views/Home/Blog_Page.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxCbG9nX1BhZ2UuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Users/Source/Repos/FINDMYAREA/Views/Home/Blog_Page_Left_Sidebar.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxCbG9nX1BhZ2VfTGVmdF9TaWRlYmFyLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Users/Source/Repos/FINDMYAREA/Views/Home/Blog_Page_Right_Sidebar.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxCbG9nX1BhZ2VfUmlnaHRfU2lkZWJhci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Users/Source/Repos/FINDMYAREA/Views/Home/Contact.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxDb250YWN0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Users/Source/Repos/FINDMYAREA/Views/Home/DashBard_Change_Password.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxEYXNoQmFyZF9DaGFuZ2VfUGFzc3dvcmQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Users/Source/Repos/FINDMYAREA/Views/Home/DashBoard.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxEYXNoQm9hcmQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Users/Source/Repos/FINDMYAREA/Views/Home/DashBoard_Add_Linsting.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxEYXNoQm9hcmRfQWRkX0xpbnN0aW5nLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Users/Source/Repos/FINDMYAREA/Views/Home/DashBoard_Bookings.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxEYXNoQm9hcmRfQm9va2luZ3MuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Users/Source/Repos/FINDMYAREA/Views/Home/DashBoard_BookMark.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxEYXNoQm9hcmRfQm9va01hcmsuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Users/Source/Repos/FINDMYAREA/Views/Home/DashBoard_Massages.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxEYXNoQm9hcmRfTWFzc2FnZXMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Users/Source/Repos/FINDMYAREA/Views/Home/DashBoard_My_Listing.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxEYXNoQm9hcmRfTXlfTGlzdGluZy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Users/Source/Repos/FINDMYAREA/Views/Home/DashBoard_My_Profile.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxEYXNoQm9hcmRfTXlfUHJvZmlsZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Users/Source/Repos/FINDMYAREA/Views/Home/DashBoard_Submitted_Review.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxEYXNoQm9hcmRfU3VibWl0dGVkX1Jldmlldy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Users/Source/Repos/FINDMYAREA/Views/Home/DashBoard_Visitor_Review.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxEYXNoQm9hcmRfVmlzaXRvcl9SZXZpZXcuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Users/Source/Repos/FINDMYAREA/Views/Home/Dashboard_Wallet.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxEYXNoYm9hcmRfV2FsbGV0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Users/Source/Repos/FINDMYAREA/Views/Home/Index_1.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleF8xLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Users/Source/Repos/FINDMYAREA/Views/Home/Index_2.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleF8yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Users/Source/Repos/FINDMYAREA/Views/Home/Index_3.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleF8zLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Users/Source/Repos/FINDMYAREA/Views/Home/Index_4.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleF80LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Users/Source/Repos/FINDMYAREA/Views/Home/Index_5.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleF81LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Users/Source/Repos/FINDMYAREA/Views/Home/Index_6.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleF82LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Users/Source/Repos/FINDMYAREA/Views/Home/Index_7.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleF83LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Users/Source/Repos/FINDMYAREA/Views/Home/Listing_Booking.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxMaXN0aW5nX0Jvb2tpbmcuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Users/Source/Repos/FINDMYAREA/Views/Home/Listing_Grid_Full_Sidebar.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxMaXN0aW5nX0dyaWRfRnVsbF9TaWRlYmFyLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Users/Source/Repos/FINDMYAREA/Views/Home/Listing_Grid_Full_Width.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxMaXN0aW5nX0dyaWRfRnVsbF9XaWR0aC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Users/Source/Repos/FINDMYAREA/Views/Home/Listing_Half_Screen_Map_Grid.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxMaXN0aW5nX0hhbGZfU2NyZWVuX01hcF9HcmlkLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Users/Source/Repos/FINDMYAREA/Views/Home/Listing_Half_Screen_Map_List.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxMaXN0aW5nX0hhbGZfU2NyZWVuX01hcF9MaXN0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Users/Source/Repos/FINDMYAREA/Views/Home/Listing_List_Full_Width.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxMaXN0aW5nX0xpc3RfRnVsbF9XaWR0aC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Users/Source/Repos/FINDMYAREA/Views/Home/Listing_List_With_Sidebar.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxMaXN0aW5nX0xpc3RfV2l0aF9TaWRlYmFyLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Users/Source/Repos/FINDMYAREA/Views/Home/Listing_Single_Page_1.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxMaXN0aW5nX1NpbmdsZV9QYWdlXzEuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Users/Source/Repos/FINDMYAREA/Views/Home/Listing_Single_Page_2.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxMaXN0aW5nX1NpbmdsZV9QYWdlXzIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Users/Source/Repos/FINDMYAREA/Views/Home/Listing_Single_Page_3.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxMaXN0aW5nX1NpbmdsZV9QYWdlXzMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Users/Source/Repos/FINDMYAREA/Views/Home/Listing_Single_Page_4.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxMaXN0aW5nX1NpbmdsZV9QYWdlXzQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Users/Source/Repos/FINDMYAREA/Views/Home/Listing_Single_Page_5.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxMaXN0aW5nX1NpbmdsZV9QYWdlXzUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Users/Source/Repos/FINDMYAREA/Views/Home/Listing_Two_Column_Map_Grid.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxMaXN0aW5nX1R3b19Db2x1bW5fTWFwX0dyaWQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Users/Source/Repos/FINDMYAREA/Views/Home/Page_About.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQYWdlX0Fib3V0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Users/Source/Repos/FINDMYAREA/Views/Home/Page_Categories_One.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQYWdlX0NhdGVnb3JpZXNfT25lLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Users/Source/Repos/FINDMYAREA/Views/Home/Page_Categories_Two.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQYWdlX0NhdGVnb3JpZXNfVHdvLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Users/Source/Repos/FINDMYAREA/Views/Home/Page_Coming_Soon.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQYWdlX0NvbWluZ19Tb29uLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Users/Source/Repos/FINDMYAREA/Views/Home/Page_Element.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQYWdlX0VsZW1lbnQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Users/Source/Repos/FINDMYAREA/Views/Home/Page_Faqs.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQYWdlX0ZhcXMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Users/Source/Repos/FINDMYAREA/Views/Home/Page_Filtering_Style.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQYWdlX0ZpbHRlcmluZ19TdHlsZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Users/Source/Repos/FINDMYAREA/Views/Home/Page_Icons_One.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQYWdlX0ljb25zX09uZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Users/Source/Repos/FINDMYAREA/Views/Home/Page_Icons_Three.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQYWdlX0ljb25zX1RocmVlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Users/Source/Repos/FINDMYAREA/Views/Home/Page_Icons_Two.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQYWdlX0ljb25zX1R3by5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Users/Source/Repos/FINDMYAREA/Views/Home/Page_Not_Found.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQYWdlX05vdF9Gb3VuZC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Users/Source/Repos/FINDMYAREA/Views/Home/Page_Pricing.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQYWdlX1ByaWNpbmcuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Users/Source/Repos/FINDMYAREA/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Users/Source/Repos/FINDMYAREA/Views/Home/Typography.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxUeXBvZ3JhcGh5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Users/Source/Repos/FINDMYAREA/Views/Home/WishList_Listings.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxXaXNoTGlzdF9MaXN0aW5ncy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Users/Source/Repos/FINDMYAREA/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Users/Source/Repos/FINDMYAREA/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Users/Source/Repos/FINDMYAREA/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Users/Source/Repos/FINDMYAREA/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Users/Source/Repos/FINDMYAREA/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-mcsc48x8k5
